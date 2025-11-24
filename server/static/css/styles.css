@@ -1,0 +1,4 @@
+body { font-family: Inter, system-ui, -apple-system, "Segoe UI", Roboto, "Helvetica Neue", Arial; }
+.thumb { width: 200px; height: 120px; display:flex; align-items:center; justify-content:center; background:#e9ecef; border-radius:6px; }
+.placeholder-video { background:#000; color:white; }
+.placeholder-img { background:#6c757d; color:white; }

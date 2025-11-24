@@ -1,0 +1,49 @@
+{
+  "project_info": {
+    "project_number": "1029597383653",
+    "firebase_url": "https://database-11192-default-rtdb.firebaseio.com",
+    "project_id": "database-11192",
+    "storage_bucket": "database-11192.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029597383653:android:5db79b3cdd4ffa492cbd0c",
+        "android_client_info": {
+          "package_name": "com.example.cam_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEuNPMmAkXQsjEc4KFQredPeCR4V9lYX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029597383653:android:da385efd14454f472cbd0c",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCEuNPMmAkXQsjEc4KFQredPeCR4V9lYX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

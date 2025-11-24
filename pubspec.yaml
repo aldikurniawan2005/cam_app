@@ -1,0 +1,42 @@
+name: smart_capture
+description: Smart Capture - Video & Image capture dengan storage lokal & upload otomatis saat terkoneksi
+publish_to: 'none'
+
+environment:
+  sdk: '>=2.18.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  
+  # Path & Penyimpanan
+  path: ^1.9.0
+  path_provider: ^2.1.2
+  permission_handler: ^11.3.1
+  intl: ^0.19.0
+  
+  # Kamera & Pemutar Video
+  camera: ^0.10.0
+  video_player: ^2.8.6
+  chewie: ^1.7.1
+  
+  # Jaringan & Konektivitas
+  http: ^1.2.0
+  connectivity_plus: ^4.0.0
+  
+  # Utilitas tambahan
+  open_file: ^3.3.2
+
+  # ============================
+  # Tambahan yang diperlukan
+  # ============================
+  provider: ^6.0.5
+  video_thumbnail: ^0.5.3
+  image: ^4.1.7
+  flutter_blurhash: ^0.8.2
+  file_selector: ^1.0.3
+  firebase_core: ^4.2.1
+  cloud_firestore: ^6.1.0
+
+flutter:
+  uses-material-design: true
